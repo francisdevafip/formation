@@ -1,0 +1,38 @@
+img:not(.ancreTB) {
+    border-style: double;  
+}
+
+.classeperso {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgba(110, 104, 19, 0.226);
+    border-style: dashed;
+   /* text-align: center; 
+    cursor: pointer;*/
+}
+
+.blue {
+    margin: 20px;
+    padding: 50px;
+    background-color: rgba(19, 110, 110, 0.226);
+    text-align: center;
+    cursor: pointer;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+.gauche {
+    float:left;
+    width:43%;
+}
+.droite {
+    float:left;
+    width:43%;
+}
+.clearb {
+clear:both;
+}
